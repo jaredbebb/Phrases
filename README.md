@@ -1,2 +1,2 @@
 # CommonPhrases
-NGrams and file input/output handling. Also xml file creation.
+File input/output handling. Also xml file creation.
